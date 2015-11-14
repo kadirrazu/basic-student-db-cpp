@@ -1,5 +1,5 @@
 # basic-student-db-cpp
-A very basic sample student information management system done in c++.
+A very basic sample student information management system done in c++. Followed structured programming pattern in this program.
 
 Sample Screen looks like below - 
 
