@@ -1,0 +1,8 @@
+7
+150101 Tawkir Salehin 24 CCE 3.78
+150102 Shahedul Alam 28 AG 3.38
+150103 Kabir Rahat 22 BBA 3.43
+150104 Mahadi Azad 22 AG 3.11
+150105 Rafsa Kabir 20 CSE 3.79
+150106 Labiba Hasan 25 MKT 3.62
+150107 Abrar Habib 15 SCI 4.88
